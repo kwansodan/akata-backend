@@ -1,0 +1,1 @@
+"""ShopBridge API application."""
